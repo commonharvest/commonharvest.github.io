@@ -1,2 +1,2 @@
 # commonharvest
-Commonharvest website : commonharvest.github.io
+Commonharvest website
